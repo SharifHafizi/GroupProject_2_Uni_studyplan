@@ -1,0 +1,48 @@
+[EMNER]
+MATT100;matte in data;H;10
+DATA100;data in datscience ;H;10
+FYS100;fysik in data;H;10
+MATT200;matte in data;V;10
+DATA200;data in datscience ;V;10
+FYS200;fysik in data;V;10
+MATT300;matte in data;H;10
+DATA300;data in datscience ;H;10
+FYS300;fysik in data;H;10
+MATT400;matte in data;V;10
+DATA400;data in datscience ;V;10
+FYS400;fysik in data;V;10
+MATT500;matte in data;H;10
+DATA500;data in datscience ;H;10
+FYS500;fysik in data;H;10
+MATT600;matte in data;V;10
+DATA600;data in datscience ;V;10
+FYS600;fysik in data;V;10
+[STUDIEPLANER]
+data2025;bachelor in data
+
+
+
+
+
+
+machine2025;bachelor in machine
+
+
+
+
+
+
+machine2025;bachelor in machine
+
+
+
+
+
+
+machine2025;bachelor in machine engineering
+
+
+
+
+
+
