@@ -11,7 +11,7 @@ class Emne:
 
     @property
     def kode(self):
-        """Gjør emnekoden skrivebeskyttet"""
+        """Gjør emnekoden skrivebeskyttet kan ikke endre""" 
         return self._kode
 
     def __str__(self):
